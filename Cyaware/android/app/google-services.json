@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933608774749",
+    "firebase_url": "https://hackstter-39c42.firebaseio.com",
+    "project_id": "hackstter-39c42",
+    "storage_bucket": "hackstter-39c42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933608774749:android:586aea9ae14f79aba2c1b4",
+        "android_client_info": {
+          "package_name": "com.example.hack_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933608774749-hl8ha3ch5hc5631armbgapebts7t11mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hack_flutter",
+            "certificate_hash": "e844dc2815fb27b98a2b6245c5e2f45c2c2208f8"
+          }
+        },
+        {
+          "client_id": "933608774749-oi8el2oncfua68ibiala04rjq60et8gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgF-KzmXKpw3sY-58SBd0kZhEcsDbGC6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933608774749-oi8el2oncfua68ibiala04rjq60et8gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

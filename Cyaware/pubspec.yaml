@@ -1,0 +1,30 @@
+name: hack_flutter
+description: A new Flutter application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  firebase_auth: ^0.16.1
+  provider: ^3.1.0
+  google_sign_in: ^4.5.1
+  http: ^0.12.1
+  cached_network_image: ^2.2.0+1
+  webview_flutter: ^0.3.22+1
+  cloud_firestore:
+  google_fonts: ^0.1.0
+  flutter_svg: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+
+  uses-material-design: true
+  assets:
+   - assets/images/
