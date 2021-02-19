@@ -1,0 +1,41 @@
+CyAware A moblie application
+
+Problem Description:
+Cyber awareness is essential matter in our lives.
+Now, that technology is easily approachable and it became part of life security and privacy concern matters morst.
+Most of the cybersecurity breaches are due to human error. There's a lot to take-on.
+this app is small step on overcome this weakest link in human factor.
+
+Features of app:
+
+Child Awareness
+Family Awareness 
+Govt. Awareness
+Network Admin Awareness
+Police Awareness
+Student Awareness 
+Teacher Awareness
+Women Awareness 
+As well as daily Article about cyber crime.
+
+Solution:
+
+We came-up with solution to aware people about cyber threat.
+
+We developed cross platform app in order to overcome cyber crimes.
+
+In this modern word smartphone is basic stuff that all people use from children to old age people.
+
+It is become more easy to use this product.
+
+
+
+Technologies and tools used during development:
+
+We developed our product in Flutter Technology
+
+Flutter is a cross-platform development framework.
+
+Flutter is Developed in dart Language.
+
+As per the cross-platform functionalities  we have developed app for both Android and IOs.
